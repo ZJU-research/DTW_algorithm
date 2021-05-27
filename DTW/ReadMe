@@ -1,0 +1,2 @@
+The DTW algorithm is a classic algorithm for data matching using the idea of dynamic programming, and is often used in applications such as audio signals and information retrieval. 
+In this project, we reproduced the DTW algorithm and generated 10 different sets of data by ourselves, data1, data2, data3,..., data9, data10, which is convenient for learners to use the DTW algorithm to match the similarity of these data , And finally the program will print out the matching path. 
